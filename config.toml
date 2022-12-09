@@ -1,4 +1,4 @@
-baseURL = 'https://timpointer.github.io'
+baseURL = 'https://timpointer.github.io/blog'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
